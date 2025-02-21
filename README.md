@@ -25,10 +25,10 @@ GDP: The Gross Domestic Product of the city.
 Number of Tourist Attractions: The number of tourist attractions in the city.
 
 After the user inputs the data for each card, your program should display the registered information on the screen in an organized and readable manner. For each card, print each piece of information on a separate line, with a clear description.
+--------------------------------------
 
 *Functional Requirements
-
-The program must correctly read the data for two cards from the user via standard input (keyboard).
+//The program must correctly read the data for two cards from the user via standard input (keyboard).
 
 The program must store the read data in appropriate variables.
 
