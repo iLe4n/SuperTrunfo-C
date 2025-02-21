@@ -1,11 +1,11 @@
 # SuperTrunfo-C
-Novice challenger super trunfo -  C 
+Super Trumps Challenge - C
 
-Hey guys, how are you?!
+Implement a C program to register cards for the Super Trunfo Countries game, allowing the input and display of basic city information.
+Apply mathematical operators in C to enhance the functionalities of the Super Trumps Countries game.
+Apply relational operators and type modifiers in C to refine the Super Trumps Countries game.
 
-My name is Natanael Sebastião and this is the first step on C! 
-Super Trunfo is a card game, so i decided to create a card game based on Super Trunfo but with cities! 
-This project is special because i learn soo mutch about the C, variables, functions, data output and input and even clearing the buffer XD!
+Estacio, learn!
 
 The challenges on Novice project is - 
 
