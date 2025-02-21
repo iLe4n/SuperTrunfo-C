@@ -24,30 +24,32 @@ GDP: The Gross Domestic Product of the city.
 
 Number of Tourist Attractions: The number of tourist attractions in the city.
 
-After the user inputs the data for each card, your program should display the registered information on the screen in an organized and readable manner. For each card, print each piece of information on a separate line, with a clear description.
+After the user inputs the data for each card, your program should display the registered information on the screen in an organized and readable manner. For each card, print each piece of
+information on a separate line, with a clear description.
 --------------------------------------
 
 *Functional Requirements
-//The program must correctly read the data for two cards from the user via standard input (keyboard).
 
-The program must store the read data in appropriate variables.
+ - The program must correctly read the data for two cards from the user via standard input (keyboard).
 
-The program must display the data for each card on the screen, formatted in a clear and organized manner, as shown in the example above.
+ - The program must store the read data in appropriate variables.
 
-Non-Functional Requirements
+ - The program must display the data for each card on the screen, formatted in a clear and organized manner, as shown in the example above.
 
-Usability: The program must be easy to use, with clear instructions for the user.
+ - Non-Functional Requirements
 
-Readability: The code must be well-indented, with explanatory comments and meaningful variable names, making it easy to read and understand.
+ - Usability: The program must be easy to use, with clear instructions for the user.
 
-Correctness: The program must work correctly, without compilation or runtime errors.
+ - Readability: The code must be well-indented, with explanatory comments and meaningful variable names, making it easy to read and understand.
 
-Simplifications for the Challenge
+ - Correctness: The program must work correctly, without compilation or runtime errors.
 
-You only need to implement the registration and display of two cards.
+ - Simplifications for the Challenge
 
-At this level, focus solely on reading, storing, and displaying the information. You do not need to implement any logic for comparing the cards or any additional features.
+ - You only need to implement the registration and display of two cards.
 
-Do not use loops (such as for or while) or decision structures (such as if or else). Your code should be a simple sequence of instructions.
+ - At this level, focus solely on reading, storing, and displaying the information. You do not need to implement any logic for comparing the cards or any additional features.
+
+ - Do not use loops (such as for or while) or decision structures (such as if or else). Your code should be a simple sequence of instructions.
 
 Bye!
